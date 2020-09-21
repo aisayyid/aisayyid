@@ -5,7 +5,7 @@
 
 A junior web developer with the heart of an inherent creative and musician. With acquired skills such as JavaScript, React, Express, MongoDB, and Node.js, a certificate in Full-Stack Web Development from the University of Central Florida, and a lifelong study of music, I will continue bringing my out of the box thinking, adaptiveness, and intense passion for artistry to develop practical web applications that inspire its users. From producing albums, composing film and game soundtracks, to creating web applications , I am driven through the vision for the complete product. I have experienced projects from its inception to completion as both a leader, collaborator, and contributor. The critical qualities I carried from those moments are clear and benevolent communication, focus, perseverance, and leading by example. I will carry these qualities into the artistry of web development, always striving to be an essential and pleasant team member, with the intrinsic goal of creation. 
 
-##Resume
+## Resume
 
 📝[Resume](https://docs.google.com/document/d/1EXyNMKWoSZ1n3Ml2sLQ0bkQ2Fwz8Kw66sWwZCkbg4iM/edit)
 
