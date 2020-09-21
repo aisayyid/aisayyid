@@ -1,5 +1,5 @@
 ### Hi! I'm Alex Isayyid, a Jr. Full- Stack Web Developer
-[![Linkedin Icon](https://img.shields.io/badge/-%20linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https:https://www.linkedin.com/in/alex-isayyid/)](https://www.linkedin.com/in/alex-isayyid/) [![Mail](https://img.shields.io/badge/-alexisayyid@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:alexisayyid@gmail.com) <a href="https://docs.google.com/document/d/1EXyNMKWoSZ1n3Ml2sLQ0bkQ2Fwz8Kw66sWwZCkbg4iM/edit"><img src="https://img.shields.io/?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+[![Linkedin Icon](https://img.shields.io/badge/-%20linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https:https://www.linkedin.com/in/alex-isayyid/)](https://www.linkedin.com/in/alex-isayyid/) [![Mail](https://img.shields.io/badge/-alexisayyid@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:alexisayyid@gmail.com) 📝[Resume](https://docs.google.com/document/d/1EXyNMKWoSZ1n3Ml2sLQ0bkQ2Fwz8Kw66sWwZCkbg4iM/edit);
 
 ## About Me
 
