@@ -1,4 +1,5 @@
 # Hi! I'm Alex Isayyid, a Jr. Full- Stack Web Developer
+<img src="https://user-images.githubusercontent.com/6026917/93770956-e0c2c000-fbea-11ea-89ec-82f2c7fb367e.png" width=500>
 [![Linkedin Icon](https://img.shields.io/badge/-%20linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https:https://www.linkedin.com/in/alex-isayyid/)](https://www.linkedin.com/in/alex-isayyid/) [![Mail](https://img.shields.io/badge/-alexisayyid@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:alexisayyid@gmail.com) 
 
 ## About Me
@@ -8,7 +9,7 @@ A junior web developer with the heart of an inherent creative and musician. With
 📝[Resume](https://docs.google.com/document/d/1EXyNMKWoSZ1n3Ml2sLQ0bkQ2Fwz8Kw66sWwZCkbg4iM/edit)
 
 ## Languages & Technologies
-<img src="https://user-images.githubusercontent.com/6026917/93770956-e0c2c000-fbea-11ea-89ec-82f2c7fb367e.png" width=500>
+
 
 [![Alex's github stats](https://github-readme-stats.vercel.app/api?username=aisayyid&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/aisayyid)
 
