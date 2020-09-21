@@ -7,7 +7,7 @@ A junior web developer with the heart of an inherent creative and musician. With
 
 📝[Resume](https://docs.google.com/document/d/1EXyNMKWoSZ1n3Ml2sLQ0bkQ2Fwz8Kw66sWwZCkbg4iM/edit)
 
-### Languages <img src="https://emojis.slackmojis.com/emojis/images/1581480424/7795/vscode.png?1581480424" width="15"/>
+## Languages 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
