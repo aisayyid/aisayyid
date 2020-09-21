@@ -19,3 +19,5 @@ A junior web developer with the heart of an inherent creative and musician. With
 
 ### Stats <img src="https://emojis.slackmojis.com/emojis/images/1590587834/9224/workflow.png?1590587834" width="15"/>
 [![Alexs github stats](https://github-readme-stats.vercel.app/api?username=aisayyid&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/aisayyid)
+
+![Alex's stats](https://github-readme-stats.vercel.app/api?username=aisayyid&show_icons=true)
