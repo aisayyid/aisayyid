@@ -1,4 +1,4 @@
-### I'm Alex Isayyid, a Jr. Full- Stack Web Developer
+### Hi! I'm Alex Isayyid, a Jr. Full- Stack Web Developer
 
 <!--
 **aisayyid/aisayyid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
