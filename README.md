@@ -10,6 +10,8 @@ A junior web developer with the heart of an inherent creative and musician. With
 ## Languages & Technologies
 <img src="https://user-images.githubusercontent.com/6026917/93770956-e0c2c000-fbea-11ea-89ec-82f2c7fb367e.png" width=500>
 
+[![Alex's github stats](https://github-readme-stats.vercel.app/api?username=aisayyid&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/aisayyid)
+
 
 
 
