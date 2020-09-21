@@ -1,4 +1,5 @@
 ### Hi! I'm Alex Isayyid, a Jr. Full- Stack Web Developer
+[![Linkedin Icon](https://img.shields.io/badge/-%20linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https:https://www.linkedin.com/in/alex-isayyid/)](https://www.linkedin.com/in/alex-isayyid/)
 
 <!--
 **aisayyid/aisayyid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
